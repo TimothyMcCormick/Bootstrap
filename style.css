@@ -1,0 +1,43 @@
+body{
+  margin: 0%;
+}
+
+.pole{
+  height: 10rem;
+  width: 5rem;
+  background-color: black;
+  margin: auto;
+}
+
+.box{
+  height: 40rem;
+  width: 20rem;
+  background-color: black;
+  margin: auto;
+}
+
+.red-light{
+  height: 12rem;
+  width: 12rem;
+  background-color: red;
+  margin: auto;
+  border-radius: 50%;
+}
+
+.yellow-light{
+  height: 12rem;
+  width: 12rem;
+  background-color: yellow;
+  margin: 1rem auto;
+  border-radius: 50%;
+}
+
+.green-light{
+  height: 12rem;
+  width: 12rem;
+  background-color: green;
+  margin: auto;
+  border-radius: 50%;
+}
+
+
